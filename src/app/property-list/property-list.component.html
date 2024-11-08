@@ -1,0 +1,8 @@
+<input [(ngModel)]="filterText" placeholder="Search properties..." />
+
+<div *ngFor="let property of filterProperties()">
+  <h3>{{ property.name }}</h3>
+  <p>Location: {{ property.location }}</p>
+  <p>Price: {{ property.price | currency }}</p>
+  <a [routerLink]="['/property', property.id]">View Details</a>
+</div>

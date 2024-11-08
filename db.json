@@ -1,0 +1,29 @@
+{
+    "properties": [
+      { "id": 1, "name": "Cozy Apartment", "location": "City Center", "price": 1200 },
+      { "id": 2, "name": "Suburban House", "location": "Suburbs", "price": 1500 },
+      { "id": 3, "name": "Beachside Villa", "location": "Coast", "price": 3000 },
+      { "id": 4, "name": "Downtown Loft", "location": "Downtown", "price": 1800 },
+      { "id": 5, "name": "Mountain Cabin", "location": "Mountains", "price": 2200 },
+      { "id": 6, "name": "Riverside Bungalow", "location": "Riverside", "price": 1400 },
+      { "id": 7, "name": "Urban Studio", "location": "City Center", "price": 1000 },
+      { "id": 8, "name": "Country Cottage", "location": "Countryside", "price": 1300 },
+      { "id": 9, "name": "Luxury Penthouse", "location": "Downtown", "price": 5000 },
+      { "id": 10, "name": "Historic Manor", "location": "Countryside", "price": 3500 },
+      { "id": 11, "name": "City Condo", "location": "City Center", "price": 1700 },
+      { "id": 12, "name": "Seaside Bungalow", "location": "Beach", "price": 2800 },
+      { "id": 13, "name": "Forest Retreat", "location": "Forest", "price": 2600 },
+      { "id": 14, "name": "Modern Duplex", "location": "Suburbs", "price": 1900 },
+      { "id": 15, "name": "Golf Course Estate", "location": "Golf Course", "price": 4000 },
+      { "id": 16, "name": "Urban High-Rise", "location": "City Center", "price": 1600 },
+      { "id": 17, "name": "Tropical Villa", "location": "Island", "price": 4500 },
+      { "id": 18, "name": "Country Farmhouse", "location": "Rural", "price": 2300 },
+      { "id": 19, "name": "Luxury Lakehouse", "location": "Lakeside", "price": 3200 },
+      { "id": 20, "name": "Ski Chalet", "location": "Mountain Resort", "price": 3400 },
+      { "id": 21, "name": "Hillside Mansion", "location": "Hills", "price": 6000 },
+      { "id": 22, "name": "City Loft", "location": "Downtown", "price": 1550 },
+      { "id": 23, "name": "Desert Oasis", "location": "Desert", "price": 2800 },
+      { "id": 24, "name": "Harbor Apartment", "location": "Harbor", "price": 2000 }
+    ]
+  }
+  
